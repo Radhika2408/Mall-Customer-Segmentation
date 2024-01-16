@@ -1,3 +1,3 @@
 # Mall-Customer-Segmentation
 
-## Models uses - fuzzy-c-mean
+### Algorithm Used - K-means,fuzzy-c-means 
