@@ -1,3 +1,3 @@
 # Mall-Customer-Segmentation
 
-### Algorithm Used - K-means,fuzzy-c-means 
+### Algorithm Used - K-means, fuzzy-c-means & hierarchical clustering 
